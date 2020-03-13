@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "portalVenta"
+    }
+  },
+  "defaultProject": "portalVenta",
+  "cli": {
+    "analytics": "89b77a91-1c81-41cf-a0de-85d3415898ae"
+  }
 }
